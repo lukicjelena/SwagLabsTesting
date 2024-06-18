@@ -21,7 +21,7 @@ public class CartTest extends BaseTest {
     }
     @Test (priority = 10)
     public void addToCartTest(){
-        swagLabsCartPage.clickOnAddtoChartButton(2);
+        swagLabsCartPage.clickOnAddtoChartButton(1);
         //swagLabsCartPage.addToCart("Sauce Labs Backpack");
 
 
