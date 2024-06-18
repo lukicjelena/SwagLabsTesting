@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a53c833-eaa2-4f84-b497-cea22088b615" name="Changes" comment="" />
+    <list default="true" id="6a53c833-eaa2-4f84-b497-cea22088b615" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.BurgerMenuTesting.aboutLinkTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BurgerMenuTesting.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BurgerMenuTesting.logoutLinkTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BurgerMenuTesting.testOfItemsInBurgerMenu.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CartTest.addToCartTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CartTest.cartTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CartTest.continueShoppingButton.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CartTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CartTest.removeFromCartTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CheckoutTest.checkoutTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FooterButtonsTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FooterButtonsTest.facebookButtonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FooterButtonsTest.linkedInButtonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FooterButtonsTest.twitterButtonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.invalidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.validLogin.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jelen/IdeaProjects/SwagLabsTesting/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BurgerMenuTesting.aboutLinkTest.executor": "Run",
+    "TestNG.BurgerMenuTesting.executor": "Run",
+    "TestNG.BurgerMenuTesting.logoutLinkTest.executor": "Run",
+    "TestNG.BurgerMenuTesting.testOfItemsInBurgerMenu.executor": "Run",
+    "TestNG.CartTest.addToCartTest.executor": "Run",
+    "TestNG.CartTest.cartTest.executor": "Run",
+    "TestNG.CartTest.continueShoppingButton.executor": "Run",
+    "TestNG.CartTest.executor": "Run",
+    "TestNG.CartTest.removeFromCartTest.executor": "Run",
+    "TestNG.CheckoutTest.checkoutTest.executor": "Run",
+    "TestNG.FooterButtonsTest.executor": "Run",
+    "TestNG.FooterButtonsTest.facebookButtonTest.executor": "Run",
+    "TestNG.FooterButtonsTest.linkedInButtonTest.executor": "Run",
+    "TestNG.FooterButtonsTest.twitterButtonTest.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.invalidLogin.executor": "Run",
+    "TestNG.LoginTest.validLogin.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/jelen/IdeaProjects/SwagLabsTesting/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.CartTest.addToCartTest">
     <configuration name="BurgerMenuTesting.testOfItemsInBurgerMenu" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SwagLabsTesting" />
